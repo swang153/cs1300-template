@@ -1,1 +1,12 @@
-/* Put your style information here! */
+h1 {
+    text-align: center;
+}
+h6 {
+    color: darkgrey;
+}
+img {
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
